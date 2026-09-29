@@ -407,138 +407,6 @@ DESCRIPTION:4TIN918U Software verification\nLEROUX Jerome\, PENELLE Vince
  s 38-43\,45-50\n4TCY901S\nAjout CSI
 END:VEVENT
 BEGIN:VEVENT
-UID:e44f844e248d22656716f4fd018cb6d0729381f5@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20260917T080000
-DTEND;TZID=Europe/Paris:20260917T100000
-SUMMARY:Applied algorithmics - TD Machine
-LOCATION:Bâtiment A28
-DESCRIPTION:4TIN915U Applied algorithmics\nCREMI - Bât. A28 Salle 008\, 
- GL Option\nBâtiment A28\nSemaines 38-43\,45-46\,48-51\n4TGL904S M2 Géni
- e Logiciel\nEn Attente Enseignant
-END:VEVENT
-BEGIN:VEVENT
-UID:dc366e1d249dc23c37f654a78124751cc8fd6b71@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20260924T080000
-DTEND;TZID=Europe/Paris:20260924T100000
-SUMMARY:Applied algorithmics - TD Machine
-LOCATION:Bâtiment A28
-DESCRIPTION:4TIN915U Applied algorithmics\nCREMI - Bât. A28 Salle 008\, 
- GL Option\nBâtiment A28\nSemaines 38-43\,45-46\,48-51\n4TGL904S M2 Géni
- e Logiciel\nEn Attente Enseignant
-END:VEVENT
-BEGIN:VEVENT
-UID:a49d214bffc428dbf4ff5be930fced4de148d9c7@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261001T080000
-DTEND;TZID=Europe/Paris:20261001T100000
-SUMMARY:Applied algorithmics - TD Machine
-LOCATION:Bâtiment A28
-DESCRIPTION:4TIN915U Applied algorithmics\nCREMI - Bât. A28 Salle 008\, 
- GL Option\nBâtiment A28\nSemaines 38-43\,45-46\,48-51\n4TGL904S M2 Géni
- e Logiciel\nEn Attente Enseignant
-END:VEVENT
-BEGIN:VEVENT
-UID:6505d1ecfe8e7d322fb28052233df14d2f8cef22@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261008T080000
-DTEND;TZID=Europe/Paris:20261008T100000
-SUMMARY:Applied algorithmics - TD Machine
-LOCATION:Bâtiment A28
-DESCRIPTION:4TIN915U Applied algorithmics\nCREMI - Bât. A28 Salle 008\, 
- GL Option\nBâtiment A28\nSemaines 38-43\,45-46\,48-51\n4TGL904S M2 Géni
- e Logiciel\nEn Attente Enseignant
-END:VEVENT
-BEGIN:VEVENT
-UID:189e857be7342f5d9177a1acd6b732dbe2c45327@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261015T080000
-DTEND;TZID=Europe/Paris:20261015T100000
-SUMMARY:Applied algorithmics - TD Machine
-LOCATION:Bâtiment A28
-DESCRIPTION:4TIN915U Applied algorithmics\nCREMI - Bât. A28 Salle 008\, 
- GL Option\nBâtiment A28\nSemaines 38-43\,45-46\,48-51\n4TGL904S M2 Géni
- e Logiciel\nEn Attente Enseignant
-END:VEVENT
-BEGIN:VEVENT
-UID:b24717419b2f13cfb945f42bfbc72ccaf5e0fc54@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261022T080000
-DTEND;TZID=Europe/Paris:20261022T100000
-SUMMARY:Applied algorithmics - TD Machine
-LOCATION:Bâtiment A28
-DESCRIPTION:4TIN915U Applied algorithmics\nCREMI - Bât. A28 Salle 008\, 
- GL Option\nBâtiment A28\nSemaines 38-43\,45-46\,48-51\n4TGL904S M2 Géni
- e Logiciel\nEn Attente Enseignant
-END:VEVENT
-BEGIN:VEVENT
-UID:d4af03b32399ba6f16fd0f95098548bad500aefe@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261105T080000
-DTEND;TZID=Europe/Paris:20261105T100000
-SUMMARY:Applied algorithmics - TD Machine
-LOCATION:Bâtiment A28
-DESCRIPTION:4TIN915U Applied algorithmics\nCREMI - Bât. A28 Salle 008\, 
- GL Option\nBâtiment A28\nSemaines 38-43\,45-46\,48-51\n4TGL904S M2 Géni
- e Logiciel\nEn Attente Enseignant
-END:VEVENT
-BEGIN:VEVENT
-UID:ecf80ff9dffe1a696779fae2a8b871b8aafa1584@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261112T080000
-DTEND;TZID=Europe/Paris:20261112T100000
-SUMMARY:Applied algorithmics - TD Machine
-LOCATION:Bâtiment A28
-DESCRIPTION:4TIN915U Applied algorithmics\nCREMI - Bât. A28 Salle 008\, 
- GL Option\nBâtiment A28\nSemaines 38-43\,45-46\,48-51\n4TGL904S M2 Géni
- e Logiciel\nEn Attente Enseignant
-END:VEVENT
-BEGIN:VEVENT
-UID:cbe5928ec5ab4d3a19a99f61a3c815bceb51caff@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261126T080000
-DTEND;TZID=Europe/Paris:20261126T100000
-SUMMARY:Applied algorithmics - TD Machine
-LOCATION:Bâtiment A28
-DESCRIPTION:4TIN915U Applied algorithmics\nCREMI - Bât. A28 Salle 008\, 
- GL Option\nBâtiment A28\nSemaines 38-43\,45-46\,48-51\n4TGL904S M2 Géni
- e Logiciel\nEn Attente Enseignant
-END:VEVENT
-BEGIN:VEVENT
-UID:5399bd783c0ddcb4ee98dd5d43bdc2a1964c308e@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261203T080000
-DTEND;TZID=Europe/Paris:20261203T100000
-SUMMARY:Applied algorithmics - TD Machine
-LOCATION:Bâtiment A28
-DESCRIPTION:4TIN915U Applied algorithmics\nCREMI - Bât. A28 Salle 008\, 
- GL Option\nBâtiment A28\nSemaines 38-43\,45-46\,48-51\n4TGL904S M2 Géni
- e Logiciel\nEn Attente Enseignant
-END:VEVENT
-BEGIN:VEVENT
-UID:92c0cf824fa4259c6266e87e1468654ad6375b07@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261210T080000
-DTEND;TZID=Europe/Paris:20261210T100000
-SUMMARY:Applied algorithmics - TD Machine
-LOCATION:Bâtiment A28
-DESCRIPTION:4TIN915U Applied algorithmics\nCREMI - Bât. A28 Salle 008\, 
- GL Option\nBâtiment A28\nSemaines 38-43\,45-46\,48-51\n4TGL904S M2 Géni
- e Logiciel\nEn Attente Enseignant
-END:VEVENT
-BEGIN:VEVENT
-UID:e29b95dbc32cc9d32f86260ad4f201327289ebac@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261217T080000
-DTEND;TZID=Europe/Paris:20261217T100000
-SUMMARY:Applied algorithmics - TD Machine
-LOCATION:Bâtiment A28
-DESCRIPTION:4TIN915U Applied algorithmics\nCREMI - Bât. A28 Salle 008\, 
- GL Option\nBâtiment A28\nSemaines 38-43\,45-46\,48-51\n4TGL904S M2 Géni
- e Logiciel\nEn Attente Enseignant
-END:VEVENT
-BEGIN:VEVENT
 UID:67cc82ad60389b8d49713b68df41dcfcbbf677a5@celcat.u-bordeaux.fr
 DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20260924T124500
@@ -1151,117 +1019,6 @@ DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
   Logiciel
 END:VEVENT
 BEGIN:VEVENT
-UID:59b0ba42a5ebcbbb70c796c9dfb36567e781e718@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20260917T101500
-DTEND;TZID=Europe/Paris:20260917T121500
-SUMMARY:Applied algorithmics - Cours
-LOCATION:A29 / Salle 103
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
- 9 / Salle 103\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:5135e5b5f178bdbff35adae8d886ad4ae9fc40d0@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20260924T101500
-DTEND;TZID=Europe/Paris:20260924T121500
-SUMMARY:Applied algorithmics - Cours
-LOCATION:A29 / Salle 105
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
- 9 / Salle 105\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:589369ae979e6d4893f3f164bc51c3f96b177e64@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261001T101500
-DTEND;TZID=Europe/Paris:20261001T121500
-SUMMARY:Applied algorithmics - Cours
-LOCATION:A29 / Salle 104
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
- 9 / Salle 104\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:28b82b385486bf837001ae1a2bdbcf869fa7f1f6@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261008T101500
-DTEND;TZID=Europe/Paris:20261008T121500
-SUMMARY:Applied algorithmics - Cours
-LOCATION:A29 / Salle 105
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
- 9 / Salle 105\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:c25d40699f27209d0f779b7339a43f56b4dc79fd@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261015T101500
-DTEND;TZID=Europe/Paris:20261015T121500
-SUMMARY:Applied algorithmics - Cours
-LOCATION:A29 / Salle 102
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
- 9 / Salle 102\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:8526d65c72960bfacf5c17e78839f75b0191a606@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261022T101500
-DTEND;TZID=Europe/Paris:20261022T121500
-SUMMARY:Applied algorithmics - Cours
-LOCATION:A29 / Amphithéâtre B
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
- 9 / Amphithéâtre B\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Lo
- giciel
-END:VEVENT
-BEGIN:VEVENT
-UID:63eea52d5882d298eccedcd82a39cab196057ae6@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261105T101500
-DTEND;TZID=Europe/Paris:20261105T121500
-SUMMARY:Applied algorithmics - Cours
-LOCATION:A29 / Salle 102
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
- 9 / Salle 102\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:71338746f2c856afd357be6bb8a032dc0d309054@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261112T101500
-DTEND;TZID=Europe/Paris:20261112T121500
-SUMMARY:Applied algorithmics - Cours
-LOCATION:A29 / Salle 102
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
- 9 / Salle 102\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:5553fc06a636b57d1f131ef4e228b20e843d653c@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261126T101500
-DTEND;TZID=Europe/Paris:20261126T121500
-SUMMARY:Applied algorithmics - Cours
-LOCATION:A21 / Salle 405
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
- 1 / Salle 405\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:4109632eacdaf66c054582a7378d9298bec18c04@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261203T101500
-DTEND;TZID=Europe/Paris:20261203T121500
-SUMMARY:Applied algorithmics - Cours
-LOCATION:A29 / Salle 102
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
- 9 / Salle 102\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:dbb116978e1e2900336842c7ab29c94030cb5939@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261210T101500
-DTEND;TZID=Europe/Paris:20261210T121500
-SUMMARY:Applied algorithmics - Cours
-LOCATION:A29 / Salle 102
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
- 9 / Salle 102\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
 UID:20a375ac6b9150aed1a154349db9d29cdc073fbd@celcat.u-bordeaux.fr
 DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20260914T100000
@@ -1282,6 +1039,152 @@ DESCRIPTION:4TIN901U Lecture d'articles et documentation scientifique\nDE
  CISD\n4TGL904S M2 Génie Logiciel\n4TIA901S M2 Intelligence artificielle\
  n4TIS904S M2 Informatique pour l'Image et le Son\n4TSD901S ASPIC\nA9.a / 
  Amphithéâtre 1\nAmphi avec IDs 1604793 et 1604796
+END:VEVENT
+BEGIN:VEVENT
+UID:2ad0cb0b4912f0564fc02e224c32afef29f14ffc@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20260917T101500
+DTEND;TZID=Europe/Paris:20260917T121500
+SUMMARY:Applied algorithmics - Cours
+LOCATION:A29 / Salle 103
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
+ 9 / Salle 103\nSemaines 38-43\,45\,48\,50\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:e55c48ccca6c061bc12ceb44a330bae6a11d627b@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20260924T101500
+DTEND;TZID=Europe/Paris:20260924T121500
+SUMMARY:Applied algorithmics - Cours
+LOCATION:A29 / Salle 105
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
+ 9 / Salle 105\nSemaines 38-43\,45\,48\,50\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:f2804e5750a44b8b8aa41c9c37c98c47b69be1fc@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261001T101500
+DTEND;TZID=Europe/Paris:20261001T121500
+SUMMARY:Applied algorithmics - Cours
+LOCATION:A29 / Salle 104
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
+ 9 / Salle 104\nSemaines 38-43\,45\,48\,50\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:77ef14201959a12165cea4dc6209bd975ac64a56@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261008T101500
+DTEND;TZID=Europe/Paris:20261008T121500
+SUMMARY:Applied algorithmics - Cours
+LOCATION:A29 / Salle 105
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
+ 9 / Salle 105\nSemaines 38-43\,45\,48\,50\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:0a2c4f111e40142dd98829c57a060215e3d99bb5@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261015T101500
+DTEND;TZID=Europe/Paris:20261015T121500
+SUMMARY:Applied algorithmics - Cours
+LOCATION:A29 / Salle 102
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
+ 9 / Salle 102\nSemaines 38-43\,45\,48\,50\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:3ab319d295ae8e24bd14e818ba7d6c94eb89bf51@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261022T101500
+DTEND;TZID=Europe/Paris:20261022T121500
+SUMMARY:Applied algorithmics - Cours
+LOCATION:A29 / Amphithéâtre B
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
+ 9 / Amphithéâtre B\nSemaines 38-43\,45\,48\,50\n4TGL904S M2 Génie Logi
+ ciel
+END:VEVENT
+BEGIN:VEVENT
+UID:4d5e68307291875ba8c6105c66e27de7022b055a@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261105T101500
+DTEND;TZID=Europe/Paris:20261105T121500
+SUMMARY:Applied algorithmics - Cours
+LOCATION:A29 / Salle 102
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
+ 9 / Salle 102\nSemaines 38-43\,45\,48\,50\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:c0d6b49eb7fbc5e0fe605bf25d15fc6e39d9e972@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261126T101500
+DTEND;TZID=Europe/Paris:20261126T121500
+SUMMARY:Applied algorithmics - Cours
+LOCATION:A21 / Salle 405
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
+ 1 / Salle 405\nSemaines 38-43\,45\,48\,50\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:d322f0fa2ea26941d495c91e9bca47074249e031@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261210T101500
+DTEND;TZID=Europe/Paris:20261210T121500
+SUMMARY:Applied algorithmics - Cours
+LOCATION:A29 / Salle 102
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
+ 9 / Salle 102\nSemaines 38-43\,45\,48\,50\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:88de046d2ba6282cbc2386671e4afea925e5a1fb@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20260917T080000
+DTEND;TZID=Europe/Paris:20260917T100000
+SUMMARY:Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:4TIN915U Applied algorithmics\nGONTHIER Maxime\, CREMI - Bât
+ . A28 Salle 008\, GL Option\nBâtiment A28\nSemaines 38-41\,48\n4TGL904S 
+ M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:ba497febd7da965d99b34db70619ba04e293b48d@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20260924T080000
+DTEND;TZID=Europe/Paris:20260924T100000
+SUMMARY:Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:4TIN915U Applied algorithmics\nGONTHIER Maxime\, CREMI - Bât
+ . A28 Salle 008\, GL Option\nBâtiment A28\nSemaines 38-41\,48\n4TGL904S 
+ M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:b57bd5a5267bbe3b6b69e8b1c26c4dbeb84c4e79@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261001T080000
+DTEND;TZID=Europe/Paris:20261001T100000
+SUMMARY:Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:4TIN915U Applied algorithmics\nGONTHIER Maxime\, CREMI - Bât
+ . A28 Salle 008\, GL Option\nBâtiment A28\nSemaines 38-41\,48\n4TGL904S 
+ M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:a065825f26857c0e4fa325b33abd571eb151f4a5@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261008T080000
+DTEND;TZID=Europe/Paris:20261008T100000
+SUMMARY:Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:4TIN915U Applied algorithmics\nGONTHIER Maxime\, CREMI - Bât
+ . A28 Salle 008\, GL Option\nBâtiment A28\nSemaines 38-41\,48\n4TGL904S 
+ M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:f1e0a6015a0d31ccab53ddcf3965b35ea5f47c61@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261126T080000
+DTEND;TZID=Europe/Paris:20261126T100000
+SUMMARY:Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:4TIN915U Applied algorithmics\nGONTHIER Maxime\, CREMI - Bât
+ . A28 Salle 008\, GL Option\nBâtiment A28\nSemaines 38-41\,48\n4TGL904S 
+ M2 Génie Logiciel
 END:VEVENT
 BEGIN:VEVENT
 UID:3b4d13fbf2c122a35fe7f706fff993772fd09103@celcat.u-bordeaux.fr
@@ -1342,6 +1245,110 @@ DESCRIPTION:4TIN901U Lecture d'articles et documentation scientifique\nDE
  CISD\n4TGL904S M2 Génie Logiciel\n4TIA901S M2 Intelligence artificielle\
  n4TIS904S M2 Informatique pour l'Image et le Son\n4TSD901S ASPIC\nA9.a / 
  Amphithéâtre 3\nAmphi avec IDs 1604793 et 1604796
+END:VEVENT
+BEGIN:VEVENT
+UID:70ae055ca73cf01939ceadb0e34c2f8b51feef2a@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261015T080000
+DTEND;TZID=Europe/Paris:20261015T100000
+SUMMARY:Applied algorithmics - Cours
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nSe
+ maines 42-43\,45\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:6214044d4842673d366fa67eb95b368e356bd509@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261022T080000
+DTEND;TZID=Europe/Paris:20261022T100000
+SUMMARY:Applied algorithmics - Cours
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nSe
+ maines 42-43\,45\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:13e5c7884fe033b82f80035a1f15c2cea3405eaf@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261105T080000
+DTEND;TZID=Europe/Paris:20261105T100000
+SUMMARY:Applied algorithmics - Cours
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nSe
+ maines 42-43\,45\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:4ec8e9b81110b9ede0d2c7273de14eb0f524bea6@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261112T101500
+DTEND;TZID=Europe/Paris:20261112T121500
+SUMMARY:Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:4TIN915U Applied algorithmics\nGONTHIER Maxime\, CREMI - Bât
+ . A28 Salle 201\, GL Option\nBâtiment A28\nSemaines 46\,49\,51\n4TGL904S
+  M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:f1fa4042026c9eab00fa478a4430aad611a2a4f2@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261203T101500
+DTEND;TZID=Europe/Paris:20261203T121500
+SUMMARY:Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:4TIN915U Applied algorithmics\nGONTHIER Maxime\, CREMI - Bât
+ . A28 Salle 201\, GL Option\nBâtiment A28\nSemaines 46\,49\,51\n4TGL904S
+  M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:e33fd44e4be5f5aac54baf8ea26dfa24cf5cba84@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261217T101500
+DTEND;TZID=Europe/Paris:20261217T121500
+SUMMARY:Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:4TIN915U Applied algorithmics\nGONTHIER Maxime\, CREMI - Bât
+ . A28 Salle 201\, GL Option\nBâtiment A28\nSemaines 46\,49\,51\n4TGL904S
+  M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:b9851c5c3e850228ffe11f1c7aa83c2120d7fe9e@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261112T080000
+DTEND;TZID=Europe/Paris:20261112T100000
+SUMMARY:Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:4TIN915U Applied algorithmics\nGONTHIER Maxime\, CREMI - Bât
+ . A28 Salle 201\, GL Option\nBâtiment A28\nSemaines 46\,49\,51\n4TGL904S
+  M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:fe7bf3f7b25cfbe2c237a34acf327a16a275a6a1@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261203T080000
+DTEND;TZID=Europe/Paris:20261203T100000
+SUMMARY:Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:4TIN915U Applied algorithmics\nGONTHIER Maxime\, CREMI - Bât
+ . A28 Salle 201\, GL Option\nBâtiment A28\nSemaines 46\,49\,51\n4TGL904S
+  M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:fd09e05a575da0ab1109c6bdee46cea34a21f649@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261217T080000
+DTEND;TZID=Europe/Paris:20261217T100000
+SUMMARY:Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:4TIN915U Applied algorithmics\nGONTHIER Maxime\, CREMI - Bât
+ . A28 Salle 201\, GL Option\nBâtiment A28\nSemaines 46\,49\,51\n4TGL904S
+  M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:01eb4a1bcfc641dbb85be94d4779b1260e5bfe15@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261208T140000
+DTEND;TZID=Europe/Paris:20261208T160000
+SUMMARY:Applied algorithmics - TD Machine
+LOCATION:Bâtiment A28
+DESCRIPTION:4TIN915U Applied algorithmics\nGONTHIER Maxime\, CREMI - Bât
+ . A28 Salle 008\, GL Option\nBâtiment A28\nSemaines 50\n4TGL904S M2 Gén
+ ie Logiciel
 END:VEVENT
 BEGIN:VEVENT
 UID:661490c6e7658b66a7248dbf8fca28c113aab5e9@celcat.u-bordeaux.fr
