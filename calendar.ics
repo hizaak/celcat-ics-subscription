@@ -1028,19 +1028,6 @@ DESCRIPTION:PENELLE Vincent\nSemaines 38\nRéunion de rentrée M2\nLaBRI
  - Bât A30\nSalle 178
 END:VEVENT
 BEGIN:VEVENT
-UID:74c7dad45427a90e18371af7397f6cc60505bffd@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20260929T161500
-DTEND;TZID=Europe/Paris:20260929T181500
-SUMMARY:Lecture d'articles et documentation scientifique - Cours
-LOCATION:Bâtiment A9
-DESCRIPTION:4TIN901U Lecture d'articles et documentation scientifique\nDE
- SBARATS Pascal\nBâtiment A9\nSemaines 40\n4TIN925U NUMERICS I\n4TCI902S 
- CISD\n4TGL904S M2 Génie Logiciel\n4TIA901S M2 Intelligence artificielle\
- n4TIS904S M2 Informatique pour l'Image et le Son\n4TSD901S ASPIC\nA9.a / 
- Amphithéâtre 1\nCours déplacé en attente
-END:VEVENT
-BEGIN:VEVENT
 UID:2ad0cb0b4912f0564fc02e224c32afef29f14ffc@celcat.u-bordeaux.fr
 DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20260917T101500
@@ -1096,10 +1083,9 @@ DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20261022T101500
 DTEND;TZID=Europe/Paris:20261022T121500
 SUMMARY:Applied algorithmics - Cours
-LOCATION:A29 / Amphithéâtre B
+LOCATION:A29 / Salle 105
 DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
- 9 / Amphithéâtre B\nSemaines 38-43\,45\,48\,50\n4TGL904S M2 Génie Logi
- ciel
+ 9 / Salle 105\nSemaines 38-43\,45\,48\,50\n4TGL904S M2 Génie Logiciel
 END:VEVENT
 BEGIN:VEVENT
 UID:4d5e68307291875ba8c6105c66e27de7022b055a@celcat.u-bordeaux.fr
@@ -1201,16 +1187,6 @@ DESCRIPTION:4TAH501S\nCATAPOULE KICHENASSAMY Agastya\nSemaines ----------
  t M...
 END:VEVENT
 BEGIN:VEVENT
-UID:0f842a9cd947f23effa7d6447fdad541fa22a3f1@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261210T110000
-DTEND;TZID=Europe/Paris:20261210T130000
-SUMMARY:Applied algorithmics - Cours
-LOCATION:A29 / Salle 101
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\nA29 / Salle 10
- 1\nSemaines 50\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
 UID:ca6d7a29f8eea3ea040c80328b199bdec28f8a8d@celcat.u-bordeaux.fr
 DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20261130T161500
@@ -1234,6 +1210,19 @@ DESCRIPTION:4TCI902S CISD\nA29 / Amphithéâtre D\nSemaines 41\nRéunion
   et le Son\n4TIV903S M2 IPCV\n4TSD901S ASPIC\nDelbruel Stéphane
 END:VEVENT
 BEGIN:VEVENT
+UID:60367bfb638adbf0acd152e8cee4400540a881f2@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261015T170000
+DTEND;TZID=Europe/Paris:20261015T190000
+SUMMARY:Lecture d'articles et documentation scientifique - Cours
+LOCATION:Bâtiment A9
+DESCRIPTION:4TIN901U Lecture d'articles et documentation scientifique\nDE
+ SBARATS Pascal\nBâtiment A9\nSemaines 42\n4TIN925U NUMERICS I\n4TCI902S 
+ CISD\n4TGL904S M2 Génie Logiciel\n4TIA901S M2 Intelligence artificielle\
+ n4TIS904S M2 Informatique pour l'Image et le Son\n4TSD901S ASPIC\nA9.a / 
+ Amphithéâtre 1
+END:VEVENT
+BEGIN:VEVENT
 UID:32cb9bd9a6382a92f531db7fd1623a949b999e1f@celcat.u-bordeaux.fr
 DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20261013T161500
@@ -1252,8 +1241,9 @@ DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20261015T080000
 DTEND;TZID=Europe/Paris:20261015T100000
 SUMMARY:Applied algorithmics - Cours
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nSe
- maines 42-43\,45\n4TGL904S M2 Génie Logiciel
+LOCATION:A29 / Salle 102
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
+ 9 / Salle 102\nSemaines 42-43\,45\n4TGL904S M2 Génie Logiciel
 END:VEVENT
 BEGIN:VEVENT
 UID:6214044d4842673d366fa67eb95b368e356bd509@celcat.u-bordeaux.fr
@@ -1261,8 +1251,9 @@ DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20261022T080000
 DTEND;TZID=Europe/Paris:20261022T100000
 SUMMARY:Applied algorithmics - Cours
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nSe
- maines 42-43\,45\n4TGL904S M2 Génie Logiciel
+LOCATION:A29 / Salle 105
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
+ 9 / Salle 105\nSemaines 42-43\,45\n4TGL904S M2 Génie Logiciel
 END:VEVENT
 BEGIN:VEVENT
 UID:13e5c7884fe033b82f80035a1f15c2cea3405eaf@celcat.u-bordeaux.fr
@@ -1270,8 +1261,9 @@ DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20261105T080000
 DTEND;TZID=Europe/Paris:20261105T100000
 SUMMARY:Applied algorithmics - Cours
-DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nSe
- maines 42-43\,45\n4TGL904S M2 Génie Logiciel
+LOCATION:A29 / Salle 102
+DESCRIPTION:4TIN915U Applied algorithmics\nGAVOILLE Cyril\, GL Option\nA2
+ 9 / Salle 102\nSemaines 42-43\,45\n4TGL904S M2 Génie Logiciel
 END:VEVENT
 BEGIN:VEVENT
 UID:4ec8e9b81110b9ede0d2c7273de14eb0f524bea6@celcat.u-bordeaux.fr
