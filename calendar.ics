@@ -685,8 +685,10 @@ DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20261005T140000
 DTEND;TZID=Europe/Paris:20261005T160000
 SUMMARY:Introduction to Quantum Computing - Cours/TD
+LOCATION:Bâtiment B18
 DESCRIPTION:4TIN929U Introduction to Quantum Computing\nTANASA Nicolae\, 
- GL Option\nSemaines 38-43\,45-47\,49-50\n4TGL904S M2 Génie Logiciel
+ GL Option\nBâtiment B18\nSemaines 38-43\,45-47\,49-50\n4TGL904S M2 Géni
+ e Logiciel\nB18N/Amphithéâtre
 END:VEVENT
 BEGIN:VEVENT
 UID:709a55de7a46578dfed224a3919708e325d846fa@celcat.u-bordeaux.fr
