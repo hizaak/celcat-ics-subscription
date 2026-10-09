@@ -1168,13 +1168,12 @@ DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20261119T080000
 DTEND;TZID=Europe/Paris:20261119T080000
 SUMMARY:4TCI902S CISD - Journée Entreprises
-DESCRIPTION:4TAH501S\nCATAPOULE KICHENASSAMY Agastya\nSemaines ----------
- --------\n4TCI902S CISD\n4TGL904S M2 Génie Logiciel\n4TIA901S M2 Intelli
- gence artificielle\n4TIN702S\n4TIS904S M2 Informatique pour l'Image et le
-  Son\n4TSD901S ASPIC\n4TYE701S\n4TYE901S\n(1 more...)\nlocaux à détermi
- ner\nJournée Entreprises UF Informatique\nL3 MIAGE\, M1 et M2 MIAGE : Jo
- urnée banalisée\nM2 Informatique : Journée banalisée\nLPro ADSSILLH e
- t M...
+DESCRIPTION:4TAH501S\nNICOLAS Henri\nSemaines ------------------\n4TCI902
+ S CISD\n4TGL904S M2 Génie Logiciel\n4TIA901S M2 Intelligence artificiell
+ e\n4TIN702S\n4TIS904S M2 Informatique pour l'Image et le Son\n4TSD901S AS
+ PIC\n4TYE701S\n4TYE901S\n(1 more...)\nlocaux à déterminer\nJournée Ent
+ reprises UF Informatique\nL3 MIAGE\, M1 et M2 MIAGE : Journée banalisée
+ \nM2 Informatique : Journée banalisée\nLPro ADSSILLH et M...
 END:VEVENT
 BEGIN:VEVENT
 UID:ca6d7a29f8eea3ea040c80328b199bdec28f8a8d@celcat.u-bordeaux.fr
