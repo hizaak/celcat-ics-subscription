@@ -162,7 +162,7 @@ DTEND;TZID=Europe/Paris:20260916T181500
 SUMMARY:Game synthesis & control - Cours/TD
 LOCATION:A29 / Amphithéâtre A
 DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nA29 / Amphithéâtre A\nSemaines 38-43\,45\,47-51
+ LL Anca\nA29 / Amphithéâtre A\nSemaines 38-43\,45\,47-48\,50-51
 END:VEVENT
 BEGIN:VEVENT
 UID:aea4b0cc8c5c7e5cd673ef72f126e5fb575bf4bc@celcat.u-bordeaux.fr
@@ -172,7 +172,8 @@ DTEND;TZID=Europe/Paris:20260923T181500
 SUMMARY:Game synthesis & control - Cours/TD
 LOCATION:Bâtiment A9
 DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nBâtiment A9\nSemaines 38-43\,45\,47-51\nA9.b / Salle 001-002
+ LL Anca\nBâtiment A9\nSemaines 38-43\,45\,47-48\,50-51\nA9.b / Salle 001
+ -002
 END:VEVENT
 BEGIN:VEVENT
 UID:c079c317b839e3bfdd9e5968254139bf2f12548f@celcat.u-bordeaux.fr
@@ -182,7 +183,7 @@ DTEND;TZID=Europe/Paris:20260930T181500
 SUMMARY:Game synthesis & control - Cours/TD
 LOCATION:A21 / Salle 155
 DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nA21 / Salle 155\nSemaines 38-43\,45\,47-51
+ LL Anca\nA21 / Salle 155\nSemaines 38-43\,45\,47-48\,50-51
 END:VEVENT
 BEGIN:VEVENT
 UID:0f7f985bbc1a8fb72c2199d8c631bb13fbe5c991@celcat.u-bordeaux.fr
@@ -192,7 +193,7 @@ DTEND;TZID=Europe/Paris:20261007T181500
 SUMMARY:Game synthesis & control - Cours/TD
 LOCATION:A29 / Amphithéâtre E
 DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nA29 / Amphithéâtre E\nSemaines 38-43\,45\,47-51
+ LL Anca\nA29 / Amphithéâtre E\nSemaines 38-43\,45\,47-48\,50-51
 END:VEVENT
 BEGIN:VEVENT
 UID:7863c745cf071378ecedfae55ae43cb99a320465@celcat.u-bordeaux.fr
@@ -202,7 +203,7 @@ DTEND;TZID=Europe/Paris:20261014T181500
 SUMMARY:Game synthesis & control - Cours/TD
 LOCATION:A21 / Salle 155
 DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nA21 / Salle 155\nSemaines 38-43\,45\,47-51
+ LL Anca\nA21 / Salle 155\nSemaines 38-43\,45\,47-48\,50-51
 END:VEVENT
 BEGIN:VEVENT
 UID:ddf3d44fdbf01fe0dabca279d2127ccb572695cd@celcat.u-bordeaux.fr
@@ -212,7 +213,7 @@ DTEND;TZID=Europe/Paris:20261021T181500
 SUMMARY:Game synthesis & control - Cours/TD
 LOCATION:A21 / Salle 155
 DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nA21 / Salle 155\nSemaines 38-43\,45\,47-51
+ LL Anca\nA21 / Salle 155\nSemaines 38-43\,45\,47-48\,50-51
 END:VEVENT
 BEGIN:VEVENT
 UID:ff65d7c717a17f8f0964ca7233b775b2a9d761d8@celcat.u-bordeaux.fr
@@ -222,7 +223,7 @@ DTEND;TZID=Europe/Paris:20261104T181500
 SUMMARY:Game synthesis & control - Cours/TD
 LOCATION:A22 / Salle 205
 DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nA22 / Salle 205\nSemaines 38-43\,45\,47-51
+ LL Anca\nA22 / Salle 205\nSemaines 38-43\,45\,47-48\,50-51
 END:VEVENT
 BEGIN:VEVENT
 UID:eb4e9a841aed2bef2480c38a4ef02da93fc24afc@celcat.u-bordeaux.fr
@@ -232,7 +233,7 @@ DTEND;TZID=Europe/Paris:20261118T181500
 SUMMARY:Game synthesis & control - Cours/TD
 LOCATION:A21 / Salle 155
 DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nA21 / Salle 155\nSemaines 38-43\,45\,47-51
+ LL Anca\nA21 / Salle 155\nSemaines 38-43\,45\,47-48\,50-51
 END:VEVENT
 BEGIN:VEVENT
 UID:87f251c0bdc2c7b381fd0d4a39ede616e2b63963@celcat.u-bordeaux.fr
@@ -242,17 +243,7 @@ DTEND;TZID=Europe/Paris:20261125T181500
 SUMMARY:Game synthesis & control - Cours/TD
 LOCATION:A22 / Salle 101
 DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nA22 / Salle 101\nSemaines 38-43\,45\,47-51
-END:VEVENT
-BEGIN:VEVENT
-UID:d50f724d5a5cb7f6a60bd216f58d20386db9cee8@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261202T161500
-DTEND;TZID=Europe/Paris:20261202T181500
-SUMMARY:Game synthesis & control - Cours/TD
-LOCATION:A29 / Salle 001
-DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nA29 / Salle 001\nSemaines 38-43\,45\,47-51
+ LL Anca\nA22 / Salle 101\nSemaines 38-43\,45\,47-48\,50-51
 END:VEVENT
 BEGIN:VEVENT
 UID:82c3c7e6c4fb3798a21e88c0295d6f4c0c8ffe18@celcat.u-bordeaux.fr
@@ -262,7 +253,7 @@ DTEND;TZID=Europe/Paris:20261209T181500
 SUMMARY:Game synthesis & control - Cours/TD
 LOCATION:A29 / Salle 104
 DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nA29 / Salle 104\nSemaines 38-43\,45\,47-51
+ LL Anca\nA29 / Salle 104\nSemaines 38-43\,45\,47-48\,50-51
 END:VEVENT
 BEGIN:VEVENT
 UID:a6c0f359b629d2203e04c622d2cc3938d676b13e@celcat.u-bordeaux.fr
@@ -272,7 +263,7 @@ DTEND;TZID=Europe/Paris:20261216T181500
 SUMMARY:Game synthesis & control - Cours/TD
 LOCATION:A29 / Salle 104
 DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nA29 / Salle 104\nSemaines 38-43\,45\,47-51
+ LL Anca\nA29 / Salle 104\nSemaines 38-43\,45\,47-48\,50-51
 END:VEVENT
 BEGIN:VEVENT
 UID:793bd5e906f2b90b40736fffc29c481c1dd9167a@celcat.u-bordeaux.fr
@@ -775,7 +766,7 @@ DTEND;TZID=Europe/Paris:20260915T121500
 SUMMARY:Game synthesis & control - Cours/TD
 LOCATION:A21 / Salle 302
 DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nA21 / Salle 302\nSemaines 38-43\,45-50
+ LL Anca\nA21 / Salle 302\nSemaines 38-43\,45-48\,50-51
 END:VEVENT
 BEGIN:VEVENT
 UID:3ac8bf1f8661124b54bfb08766e064315cba27bd@celcat.u-bordeaux.fr
@@ -785,7 +776,7 @@ DTEND;TZID=Europe/Paris:20260922T121500
 SUMMARY:Game synthesis & control - Cours/TD
 LOCATION:A22 / Salle 113
 DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nA22 / Salle 113\nSemaines 38-43\,45-50
+ LL Anca\nA22 / Salle 113\nSemaines 38-43\,45-48\,50-51
 END:VEVENT
 BEGIN:VEVENT
 UID:237c5d17e796d6dbaf5b5b113b783be745573f87@celcat.u-bordeaux.fr
@@ -795,7 +786,7 @@ DTEND;TZID=Europe/Paris:20260929T121500
 SUMMARY:Game synthesis & control - Cours/TD
 LOCATION:A21 / Salle 404
 DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nA21 / Salle 404\nSemaines 38-43\,45-50
+ LL Anca\nA21 / Salle 404\nSemaines 38-43\,45-48\,50-51
 END:VEVENT
 BEGIN:VEVENT
 UID:fce4ff56d73cb4786c7cd6d33f62009f8e07adee@celcat.u-bordeaux.fr
@@ -805,7 +796,7 @@ DTEND;TZID=Europe/Paris:20261006T121500
 SUMMARY:Game synthesis & control - Cours/TD
 LOCATION:A22 / Salle 119
 DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nA22 / Salle 119\nSemaines 38-43\,45-50
+ LL Anca\nA22 / Salle 119\nSemaines 38-43\,45-48\,50-51
 END:VEVENT
 BEGIN:VEVENT
 UID:27c13cb207680dac90f6849ebd74eb89f7f465f9@celcat.u-bordeaux.fr
@@ -815,7 +806,7 @@ DTEND;TZID=Europe/Paris:20261013T121500
 SUMMARY:Game synthesis & control - Cours/TD
 LOCATION:A21 / Salle 403
 DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nA21 / Salle 403\nSemaines 38-43\,45-50
+ LL Anca\nA21 / Salle 403\nSemaines 38-43\,45-48\,50-51
 END:VEVENT
 BEGIN:VEVENT
 UID:fe097dee8492699365cbe514f4ecfab8a2a024f8@celcat.u-bordeaux.fr
@@ -825,7 +816,7 @@ DTEND;TZID=Europe/Paris:20261020T121500
 SUMMARY:Game synthesis & control - Cours/TD
 LOCATION:A21 / Salle 403
 DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nA21 / Salle 403\nSemaines 38-43\,45-50
+ LL Anca\nA21 / Salle 403\nSemaines 38-43\,45-48\,50-51
 END:VEVENT
 BEGIN:VEVENT
 UID:bfa74e7086a8795ca8c4361d87ea545df8f318b0@celcat.u-bordeaux.fr
@@ -835,7 +826,7 @@ DTEND;TZID=Europe/Paris:20261103T121500
 SUMMARY:Game synthesis & control - Cours/TD
 LOCATION:A21 / Salle 160
 DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nA21 / Salle 160\nSemaines 38-43\,45-50
+ LL Anca\nA21 / Salle 160\nSemaines 38-43\,45-48\,50-51
 END:VEVENT
 BEGIN:VEVENT
 UID:b39a1588e2da3d2ff064cc20bf9d122473d9217b@celcat.u-bordeaux.fr
@@ -845,7 +836,7 @@ DTEND;TZID=Europe/Paris:20261110T121500
 SUMMARY:Game synthesis & control - Cours/TD
 LOCATION:A21 / Salle 403
 DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nA21 / Salle 403\nSemaines 38-43\,45-50
+ LL Anca\nA21 / Salle 403\nSemaines 38-43\,45-48\,50-51
 END:VEVENT
 BEGIN:VEVENT
 UID:fc4c71926af5e00c2c619ba233bbdb270a399526@celcat.u-bordeaux.fr
@@ -855,7 +846,7 @@ DTEND;TZID=Europe/Paris:20261117T121500
 SUMMARY:Game synthesis & control - Cours/TD
 LOCATION:A21 / Salle 303
 DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nA21 / Salle 303\nSemaines 38-43\,45-50
+ LL Anca\nA21 / Salle 303\nSemaines 38-43\,45-48\,50-51
 END:VEVENT
 BEGIN:VEVENT
 UID:9cfe3ab15cf77e6650b80b439bca3386314060c3@celcat.u-bordeaux.fr
@@ -865,17 +856,7 @@ DTEND;TZID=Europe/Paris:20261124T121500
 SUMMARY:Game synthesis & control - Cours/TD
 LOCATION:A21 / Salle 303
 DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nA21 / Salle 303\nSemaines 38-43\,45-50
-END:VEVENT
-BEGIN:VEVENT
-UID:06fcba2c410bf4abfc5d37b7437a04a3c4a20558@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261201T101500
-DTEND;TZID=Europe/Paris:20261201T121500
-SUMMARY:Game synthesis & control - Cours/TD
-LOCATION:A21 / Salle 303
-DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nA21 / Salle 303\nSemaines 38-43\,45-50
+ LL Anca\nA21 / Salle 303\nSemaines 38-43\,45-48\,50-51
 END:VEVENT
 BEGIN:VEVENT
 UID:390f6161bca03939c3e6f487a15f9b069237b143@celcat.u-bordeaux.fr
@@ -885,7 +866,17 @@ DTEND;TZID=Europe/Paris:20261208T121500
 SUMMARY:Game synthesis & control - Cours/TD
 LOCATION:A29 / Salle 101
 DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
- LL Anca\nA29 / Salle 101\nSemaines 38-43\,45-50
+ LL Anca\nA29 / Salle 101\nSemaines 38-43\,45-48\,50-51
+END:VEVENT
+BEGIN:VEVENT
+UID:2ded07ef809cb42bd04d7f885ddd95f6216135cf@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261215T101500
+DTEND;TZID=Europe/Paris:20261215T121500
+SUMMARY:Game synthesis & control - Cours/TD
+LOCATION:A29 / Salle 102
+DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
+ LL Anca\nA29 / Salle 102\nSemaines 38-43\,45-48\,50-51
 END:VEVENT
 BEGIN:VEVENT
 UID:e4a8c8f45dd0407d698c010450c6ebd48f2f6c53@celcat.u-bordeaux.fr
