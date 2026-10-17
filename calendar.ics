@@ -759,127 +759,6 @@ DESCRIPTION:4TIN919U Game synthesis & control\nLAGARDE Guillaume\, MUSCHO
  LL Anca\nA29 / Salle 102\nSemaines 38-43\,45-48\,50-51
 END:VEVENT
 BEGIN:VEVENT
-UID:e4a8c8f45dd0407d698c010450c6ebd48f2f6c53@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20260917T140000
-DTEND;TZID=Europe/Paris:20260917T160000
-SUMMARY:Advanced graph theory - Cours/TD
-LOCATION:A33 / Grand Amphithéâtre de Mathématiques
-DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
- nA33 / Grand Amphithéâtre de Mathématiques\nSemaines 38-43\,45-46\,48-
- 50\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:42383682c472c1f6adac2199492d07e08ba5502c@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20260924T140000
-DTEND;TZID=Europe/Paris:20260924T160000
-SUMMARY:Advanced graph theory - Cours/TD
-LOCATION:Bâtiment A9
-DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
- nBâtiment A9\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel\
- nA9.a / Amphithéâtre 2
-END:VEVENT
-BEGIN:VEVENT
-UID:5954b10a9b63c2e300da1ea4f331170f58e55c11@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261001T140000
-DTEND;TZID=Europe/Paris:20261001T160000
-SUMMARY:Advanced graph theory - Cours/TD
-LOCATION:B5 / Amphithéâtre GABA
-DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
- nB5 / Amphithéâtre GABA\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Gén
- ie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:004d31258f413fc3ed6bdd79bd7db2b0bea014d8@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261008T140000
-DTEND;TZID=Europe/Paris:20261008T160000
-SUMMARY:Advanced graph theory - Cours/TD
-LOCATION:Bâtiment A9
-DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
- nBâtiment A9\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel\
- nA9.a / Amphithéâtre 3
-END:VEVENT
-BEGIN:VEVENT
-UID:ccba0659f1fc9308416d0a95ed9b772a7b4567ea@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261015T140000
-DTEND;TZID=Europe/Paris:20261015T160000
-SUMMARY:Advanced graph theory - Cours/TD
-LOCATION:A33 / Grand Amphithéâtre de Mathématiques
-DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
- nA33 / Grand Amphithéâtre de Mathématiques\nSemaines 38-43\,45-46\,48-
- 50\n4TGL904S M2 Génie Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:15bbf0f22ad3358ee0c681865955261ff81b86f2@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261022T140000
-DTEND;TZID=Europe/Paris:20261022T160000
-SUMMARY:Advanced graph theory - Cours/TD
-LOCATION:Bâtiment A9
-DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
- nBâtiment A9\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logiciel\
- nA9.a / Amphithéâtre 3
-END:VEVENT
-BEGIN:VEVENT
-UID:f909fc9bb25ca675225d0005c0c8763cc1b8a27b@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261105T140000
-DTEND;TZID=Europe/Paris:20261105T160000
-SUMMARY:Advanced graph theory - Cours/TD
-LOCATION:A29 / Amphithéâtre F
-DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
- nA29 / Amphithéâtre F\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie
-  Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:10ec8cba0225ee1efcb6d4efb7388255182bb805@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261112T140000
-DTEND;TZID=Europe/Paris:20261112T160000
-SUMMARY:Advanced graph theory - Cours/TD
-LOCATION:A29 / Amphithéâtre F
-DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
- nA29 / Amphithéâtre F\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie
-  Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:65bdf337ce2652cdef32cd7062cd4920c61bba18@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261126T140000
-DTEND;TZID=Europe/Paris:20261126T160000
-SUMMARY:Advanced graph theory - Cours/TD
-LOCATION:A21 / Salle 302
-DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
- nA21 / Salle 302\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie Logici
- el
-END:VEVENT
-BEGIN:VEVENT
-UID:4818dee1913461d657889a29769dc6e2f65fb3df@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261203T140000
-DTEND;TZID=Europe/Paris:20261203T160000
-SUMMARY:Advanced graph theory - Cours/TD
-LOCATION:A29 / Amphithéâtre F
-DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
- nA29 / Amphithéâtre F\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie
-  Logiciel
-END:VEVENT
-BEGIN:VEVENT
-UID:dfc5d24f8dd549ee25f110d5a3501ff3387c5a14@celcat.u-bordeaux.fr
-DTSTAMP:20200101T000000Z
-DTSTART;TZID=Europe/Paris:20261210T140000
-DTEND;TZID=Europe/Paris:20261210T160000
-SUMMARY:Advanced graph theory - Cours/TD
-LOCATION:A29 / Amphithéâtre F
-DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
- nA29 / Amphithéâtre F\nSemaines 38-43\,45-46\,48-50\n4TGL904S M2 Génie
-  Logiciel
-END:VEVENT
-BEGIN:VEVENT
 UID:20a375ac6b9150aed1a154349db9d29cdc073fbd@celcat.u-bordeaux.fr
 DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20260914T100000
@@ -1148,6 +1027,116 @@ DESCRIPTION:4TIN918U Software verification\nTALBOT Jean-Marc\, CREMI - B
  S
 END:VEVENT
 BEGIN:VEVENT
+UID:b0e3415228b3b13c36b3a0983e69b08ed9149793@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20260917T140000
+DTEND;TZID=Europe/Paris:20260917T160000
+SUMMARY:Advanced graph theory - Cours/TD
+LOCATION:A33 / Grand Amphithéâtre de Mathématiques
+DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
+ nA33 / Grand Amphithéâtre de Mathématiques\nSemaines 38-42\,45-46\,48-
+ 50\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:474757e37ad4490f33ad14b89db68638fa29f6bd@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20260924T140000
+DTEND;TZID=Europe/Paris:20260924T160000
+SUMMARY:Advanced graph theory - Cours/TD
+LOCATION:Bâtiment A9
+DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
+ nBâtiment A9\nSemaines 38-42\,45-46\,48-50\n4TGL904S M2 Génie Logiciel\
+ nA9.a / Amphithéâtre 2
+END:VEVENT
+BEGIN:VEVENT
+UID:16857365303716b20a764666488b336ea42dca5c@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261001T140000
+DTEND;TZID=Europe/Paris:20261001T160000
+SUMMARY:Advanced graph theory - Cours/TD
+LOCATION:B5 / Amphithéâtre GABA
+DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
+ nB5 / Amphithéâtre GABA\nSemaines 38-42\,45-46\,48-50\n4TGL904S M2 Gén
+ ie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:9e46942fa93e60910820c001b2a25a9665508b16@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261008T140000
+DTEND;TZID=Europe/Paris:20261008T160000
+SUMMARY:Advanced graph theory - Cours/TD
+LOCATION:Bâtiment A9
+DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
+ nBâtiment A9\nSemaines 38-42\,45-46\,48-50\n4TGL904S M2 Génie Logiciel\
+ nA9.a / Amphithéâtre 3
+END:VEVENT
+BEGIN:VEVENT
+UID:d510838848199348dfa33acc577e12267dea8728@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261015T140000
+DTEND;TZID=Europe/Paris:20261015T160000
+SUMMARY:Advanced graph theory - Cours/TD
+LOCATION:A33 / Grand Amphithéâtre de Mathématiques
+DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
+ nA33 / Grand Amphithéâtre de Mathématiques\nSemaines 38-42\,45-46\,48-
+ 50\n4TGL904S M2 Génie Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:6d106df8a06d57a03ba15bd39798b690e6f889f9@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261105T140000
+DTEND;TZID=Europe/Paris:20261105T160000
+SUMMARY:Advanced graph theory - Cours/TD
+LOCATION:A29 / Amphithéâtre F
+DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
+ nA29 / Amphithéâtre F\nSemaines 38-42\,45-46\,48-50\n4TGL904S M2 Génie
+  Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:b198d569287baeb77ba897924831f3e17e59fd7b@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261112T140000
+DTEND;TZID=Europe/Paris:20261112T160000
+SUMMARY:Advanced graph theory - Cours/TD
+LOCATION:A29 / Amphithéâtre F
+DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
+ nA29 / Amphithéâtre F\nSemaines 38-42\,45-46\,48-50\n4TGL904S M2 Génie
+  Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:6bee6159e5fc0463dfd65d3eebf9854c50267431@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261126T140000
+DTEND;TZID=Europe/Paris:20261126T160000
+SUMMARY:Advanced graph theory - Cours/TD
+LOCATION:A21 / Salle 302
+DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
+ nA21 / Salle 302\nSemaines 38-42\,45-46\,48-50\n4TGL904S M2 Génie Logici
+ el
+END:VEVENT
+BEGIN:VEVENT
+UID:ae1a0ebcb23b630af850bc80dd03f86daebaeca5@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261203T140000
+DTEND;TZID=Europe/Paris:20261203T160000
+SUMMARY:Advanced graph theory - Cours/TD
+LOCATION:A29 / Amphithéâtre F
+DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
+ nA29 / Amphithéâtre F\nSemaines 38-42\,45-46\,48-50\n4TGL904S M2 Génie
+  Logiciel
+END:VEVENT
+BEGIN:VEVENT
+UID:6c03b50b8de28dc9b423b1932a3fa2a21122f4c6@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261210T140000
+DTEND;TZID=Europe/Paris:20261210T160000
+SUMMARY:Advanced graph theory - Cours/TD
+LOCATION:A29 / Amphithéâtre F
+DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
+ nA29 / Amphithéâtre F\nSemaines 38-42\,45-46\,48-50\n4TGL904S M2 Génie
+  Logiciel
+END:VEVENT
+BEGIN:VEVENT
 UID:3b4d13fbf2c122a35fe7f706fff993772fd09103@celcat.u-bordeaux.fr
 DTSTAMP:20200101T000000Z
 DTSTART;TZID=Europe/Paris:20261119T080000
@@ -1325,6 +1314,17 @@ SUMMARY:Software verification - Cours/TD
 LOCATION:Bâtiment A28
 DESCRIPTION:4TIN918U Software verification\nSUTRE Gregoire\, CREMI - Bât
  . A28 Salle 207\nBâtiment A28\nSemaines 43\n4TCY901S
+END:VEVENT
+BEGIN:VEVENT
+UID:b2fcdffc904a0d5578113dd88f67c472e82187a9@celcat.u-bordeaux.fr
+DTSTAMP:20200101T000000Z
+DTSTART;TZID=Europe/Paris:20261022T140000
+DTEND;TZID=Europe/Paris:20261022T160000
+SUMMARY:Advanced graph theory - Cours/TD
+LOCATION:Bâtiment A9
+DESCRIPTION:4TIN917U Advanced graph theory\nKARDOS Frantisek\, GL Option\
+ nBâtiment A9\nSemaines 43\n4TGL904S M2 Génie Logiciel\nA9.a / Amphithé
+ âtre 3
 END:VEVENT
 BEGIN:VEVENT
 UID:661490c6e7658b66a7248dbf8fca28c113aab5e9@celcat.u-bordeaux.fr
